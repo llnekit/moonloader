@@ -1,0 +1,61 @@
+[21:26:02.758649] (system)	Session started.
+[21:26:02.758649] (debug)	Module handle: 70310000
+
+MoonLoader v.026.5-beta loaded.
+Developers: FYP, hnnssy, EvgeN 1137
+
+Copyright (c) 2016, BlastHack Team
+http://blast.hk/moonloader/
+
+[21:26:02.758649] (info)	Working directory: C:\Games\ARIZONA GAMES\bin\Arizona\moonloader
+[21:26:02.758649] (debug)	FP Control: 0109001F
+[21:26:02.758649] (debug)	Game: GTA SA 1.0.0.0 US
+[21:26:02.758649] (system)	Installing pre-game hooks...
+[21:26:02.763661] (system)	Hooks installed.
+[21:26:05.151684] (debug)	Initializing opcode handler table
+[21:26:05.151684] (debug)	package.path = C:\Games\ARIZONA GAMES\bin\Arizona\moonloader\lib\?.lua;C:\Games\ARIZONA GAMES\bin\Arizona\moonloader\lib\?\init.lua;C:\Games\ARIZONA GAMES\bin\Arizona\moonloader\?.lua;C:\Games\ARIZONA GAMES\bin\Arizona\moonloader\?\init.lua;.\?.lua;C:\Games\ARIZONA GAMES\bin\Arizona\moonloader\lib\?.luac;C:\Games\ARIZONA GAMES\bin\Arizona\moonloader\lib\?\init.luac;C:\Games\ARIZONA GAMES\bin\Arizona\moonloader\?.luac;C:\Games\ARIZONA GAMES\bin\Arizona\moonloader\?\init.luac;.\?.luac
+[21:26:05.151684] (debug)	package.cpath = C:\Games\ARIZONA GAMES\bin\Arizona\moonloader\lib\?.dll;
+[21:26:05.156685] (system)	Loading script 'C:\Games\ARIZONA GAMES\bin\Arizona\moonloader\BB.lua'...
+[21:26:05.156685] (debug)	New script: 0F20EE6C
+[21:26:05.160683] (system)	BB.lua: Loaded successfully.
+[21:26:05.161682] (system)	Loading script 'C:\Games\ARIZONA GAMES\bin\Arizona\moonloader\bebraVR.lua'...
+[21:26:05.161682] (debug)	New script: 22BEEB9C
+[21:26:05.172682] (system)	bebraVR.lua: Loaded successfully.
+[21:26:05.172682] (system)	Loading script 'C:\Games\ARIZONA GAMES\bin\Arizona\moonloader\BSH.lua'...
+[21:26:05.172682] (debug)	New script: 22BEED24
+[21:26:05.191683] (system)	BSH.lua: Loaded successfully.
+[21:26:05.191683] (system)	Loading script 'C:\Games\ARIZONA GAMES\bin\Arizona\moonloader\FisherMan.lua'...
+[21:26:05.191683] (debug)	New script: 27FEEE0C
+[21:26:05.201683] (system)	FisherMan.lua: Loaded successfully.
+[21:26:05.201683] (system)	Loading script 'C:\Games\ARIZONA GAMES\bin\Arizona\moonloader\NICE_TIME.lua'...
+[21:26:05.201683] (debug)	New script: 0F87D0DC
+[21:26:05.203684] (system)	NICE_TIME.lua: Loaded successfully.
+[21:26:05.203684] (system)	Loading script 'C:\Games\ARIZONA GAMES\bin\Arizona\moonloader\reload_all.lua'...
+[21:26:05.203684] (debug)	New script: 0F87D264
+[21:26:05.205682] (system)	ML-ReloadAll: Loaded successfully.
+[21:26:05.205682] (system)	Loading script 'C:\Games\ARIZONA GAMES\bin\Arizona\moonloader\rulet.lua'...
+[21:26:05.205682] (debug)	New script: 0F87D3EC
+[21:26:05.207682] (system)	rulet.lua: Loaded successfully.
+[21:26:05.207682] (system)	Loading script 'C:\Games\ARIZONA GAMES\bin\Arizona\moonloader\SetSkin.lua'...
+[21:26:05.207682] (debug)	New script: 0F87D574
+[21:26:05.210683] (system)	SetSkin.lua: Loaded successfully.
+[21:26:05.210683] (system)	Loading script 'C:\Games\ARIZONA GAMES\bin\Arizona\moonloader\SF Integration.lua'...
+[21:26:05.210683] (debug)	New script: 0F87D6FC
+[21:26:05.215683] (system)	SF Integration: Loaded successfully.
+[21:26:05.215683] (system)	Loading script 'C:\Games\ARIZONA GAMES\bin\Arizona\moonloader\TextDraw[New].lua'...
+[21:26:05.215683] (debug)	New script: 2D7B45E4
+[21:26:05.228683] (system)	TextDraw[New]: Loaded successfully.
+[21:26:20.797169] (system)	Installing post-load hooks...
+[21:26:20.797169] (system)	Hooks installed.
+[21:26:41.867339] (system)	Unloading...
+[21:26:41.867339] (system)	BB.lua: Script terminated. (0F20EE6C)
+[21:26:41.867339] (system)	bebraVR.lua: Script terminated. (22BEEB9C)
+[21:26:41.868032] (system)	BSH.lua: Script terminated. (22BEED24)
+[21:26:41.870024] (system)	FisherMan.lua: Script terminated. (27FEEE0C)
+[21:26:41.870024] (system)	NICE_TIME.lua: Script terminated. (0F87D0DC)
+[21:26:41.871030] (system)	ML-ReloadAll: Script terminated. (0F87D264)
+[21:26:41.871030] (system)	rulet.lua: Script terminated. (0F87D3EC)
+[21:26:41.871030] (system)	SetSkin.lua: Script terminated. (0F87D574)
+[21:26:41.872024] (system)	SF Integration: Script terminated. (0F87D6FC)
+[21:26:41.872024] (system)	TextDraw[New]: Script terminated. (2D7B45E4)
+[21:26:41.946021] (system)	Session terminated.
